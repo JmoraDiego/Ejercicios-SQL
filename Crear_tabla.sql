@@ -1,6 +1,0 @@
-CREATE TABLE Clientes (
-	id INT PRIMARY KEY,
-	Nombre VARCHAR(255),
-	Correo VARCHAR(255)
-	
-)
